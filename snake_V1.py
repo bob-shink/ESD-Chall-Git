@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PASSWORD_FILE="ID.txt"
+PASSWORD_FILE="RVNELVZlUnktU1Ryb25nI1BhJCRXMHJEJA=="
 
 
 PASSWORD=$(base64 --decode < "$PASSWORD_FILE")
